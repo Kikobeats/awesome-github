@@ -10,4 +10,5 @@
 + [Github Most active languages](http://githut.info/)
 + [Github Open Source Card](https://osrc.dfm.io/kikobeats/)
 + [Github Popular conventions](http://sideeffect.kr/popularconvention)
++ [Github Repository Collaborators sorted by contributions](https://github.com/oleander/git-fame-rb)
 + [Github Top Users](https://github.com/paulmillr/top-github-users)
