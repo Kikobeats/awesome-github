@@ -4,6 +4,7 @@
 
 + [Github Activity Dashboard](https://github.com/KuiKui/Octoboard)
 + [Github Archive](https://github.com/igrigorik/githubarchive.org)
++ [Github Awesome Autocomplete](https://github.algolia.com/)
 + [Github Cheatsheet](https://github.com/tiimgreen/github-cheat-sheet)
 + [Github Contributions Generator](https://github.com/IonicaBizau/github-contributions)
 + [Github Friction tool](https://github.com/rafalchmiel/friction)
