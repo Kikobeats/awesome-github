@@ -1,20 +1,34 @@
 # awesome-gitub
 
-> A curated list of awesome GitHub secrets.
+> A exquisite list of awesome GitHub secrets.
 
-+ [Github Activity Dashboard](https://github.com/KuiKui/Octoboard)
-+ [Github Archive](https://github.com/igrigorik/githubarchive.org)
-+ [Github Awesome Autocomplete](https://github.algolia.com/)
-+ [Github Cheatsheet](https://github.com/tiimgreen/github-cheat-sheet)
-+ [Github Contributions Generator](https://github.com/IonicaBizau/github-contributions)
+## Tools
+
 + [Github Friction tool](https://github.com/rafalchmiel/friction)
-+ [Github Hall of Fame](https://github.com/mehulkar/github-hall-of-fame)
++ [Github Repository Collaborators sorted by contributions ](https://github.com/oleander/git-fame-rb)
++ [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
 + [Github Improve Git CLI](https://hub.github.com)
-+ [Github Issues Stats](http://issuestats.com)
-+ [Github Linker (Extension for Chrome)](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp)
-+ [Github Most active languages](http://githut.info)
-+ [Github Open Source Card](https://osrc.dfm.io)
-+ [Github Popular conventions](http://sideeffect.kr/popularconvention)
-+ [Github Repository Collaborators sorted by contributions](https://github.com/oleander/git-fame-rb)
+
+## Website
+
++ [octoboard.com](http://octoboard.com) ([Repository](https://github.com/KuiKui/Octoboard))
++ [githubarchive.org](http://githubarchive.org) ([Repository](https://github.com/igrigorik/githubarchive.org))
++ [issuestats.com](http://issuestats.com) ([Repository](https://github.com/hstove/issue_stats))
++ [githut.info](http://githut.info) ([Repository](https://github.com/littleark/githut/))
++ [popularconvention](http://sideeffect.kr/popularconvention) ([Repository](https://github.com/outsideris/popularconvention))
++ [open source card](https://osrc.dfm.io) ([Repository](https://github.com/dfm/osrc))
++ [git.io](http://git.io)
+
+## Browser Extensions
+
++ [Github Linker (Extension for Chrome)](https://github.com/github-linker/chrome-extension/)
++ [Github Awesome Autocomplete](https://github.algolia.com/)
+
+
+## Freaky insane
+
++ [Github Contributions Generator](https://github.com/IonicaBizau/github-contributions)
++ [Github Hall of Fame](https://github.com/mehulkar/github-hall-of-fame)
 + [Github Top Users](https://github.com/paulmillr/top-github-users)
-+ [Github URL Shortener](http://git.io)
+
+
