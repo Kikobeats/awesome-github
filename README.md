@@ -11,6 +11,7 @@
 + [Github Hall of Fame](https://github.com/mehulkar/github-hall-of-fame)
 + [Github Improve Git CLI](https://hub.github.com)
 + [Github Issues Stats](http://issuestats.com)
++ [Github Linker (Extension for Chrome)](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp)
 + [Github Most active languages](http://githut.info)
 + [Github Open Source Card](https://osrc.dfm.io)
 + [Github Popular conventions](http://sideeffect.kr/popularconvention)
