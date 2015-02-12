@@ -23,6 +23,7 @@
 ## Browser Extensions
 
 + [Github Linker (Extension for Chrome)](https://github.com/github-linker/chrome-extension/)
++ [Github Tagger](https://chrome.google.com/webstore/detail/github-tagger/apegcdgbjbocfnleknnbalmhlpbjgmmf)
 + [Github Awesome Autocomplete](https://github.algolia.com/)
 
 
