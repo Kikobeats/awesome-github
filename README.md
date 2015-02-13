@@ -25,12 +25,10 @@
 + [Github Linker (Extension for Chrome)](https://github.com/github-linker/chrome-extension/)
 + [Github Tagger](https://chrome.google.com/webstore/detail/github-tagger/apegcdgbjbocfnleknnbalmhlpbjgmmf)
 + [Github Awesome Autocomplete](https://github.algolia.com/)
-
++ [Github Selfies](https://chrome.google.com/webstore/detail/github-selfies/ldnpkdnkgkogfnahcnldaedcoadjbkbl)
 
 ## Freaky insane
 
 + [Github Contributions Generator](https://github.com/IonicaBizau/github-contributions)
 + [Github Hall of Fame](https://github.com/mehulkar/github-hall-of-fame)
 + [Github Top Users](https://github.com/paulmillr/top-github-users)
-
-
