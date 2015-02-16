@@ -8,6 +8,7 @@
 + [Github Repository Collaborators sorted by contributions ](https://github.com/oleander/git-fame-rb)
 + [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
 + [Github Improve Git CLI](https://hub.github.com)
++ [Github Stats](https://github.com/IonicaBizau/git-stats)
 
 ## Website
 
