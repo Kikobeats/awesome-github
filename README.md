@@ -2,6 +2,10 @@
 
 > A exquisite list of awesome GitHub secrets.
 
+## WebApps
+
++ [Astral, Organize Your GitHub Stars With Ease](http://astralapp.com)
+
 ## Tools
 
 + [Github Friction tool](https://github.com/rafalchmiel/friction)
