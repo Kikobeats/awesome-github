@@ -2,9 +2,10 @@
 
 > A exquisite list of awesome GitHub secrets.
 
-## WebApps
+## Apps
 
 + [Astral, Organize Your GitHub Stars With Ease](http://astralapp.com)
++ [gitify, GitHub Notifications on your menu bar](https://github.com/ekonstantinidis/gitify)
 
 ## Tools
 
@@ -13,6 +14,7 @@
 + [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
 + [Github Improve Git CLI](https://hub.github.com)
 + [Github Git Stats](https://github.com/IonicaBizau/git-stats)
++ [Github Changelog Generator](https://github.com/skywinder/github-changelog-generator)
 
 ## Website
 
@@ -23,6 +25,7 @@
 + [githut.info](http://githut.info) ([Repository](https://github.com/littleark/githut/))
 + [popularconvention](http://sideeffect.kr/popularconvention) ([Repository](https://github.com/outsideris/popularconvention))
 + [open source card](https://osrc.dfm.io) ([Repository](https://github.com/dfm/osrc))
++ [github-awards.com](http://github-awards.com)
 + [git.io](http://git.io)
 
 ## Browser Extensions
