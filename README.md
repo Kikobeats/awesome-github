@@ -6,6 +6,7 @@
 
 + [Astral, Organize Your GitHub Stars With Ease](http://astralapp.com)
 + [gitify, GitHub Notifications on your menu bar](https://github.com/ekonstantinidis/gitify)
++ [gitter, Provides free public chat rooms for open source repositories on GitHub](https://gitter.im/)
 
 ## Tools
 
