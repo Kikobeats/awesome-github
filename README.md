@@ -1,4 +1,4 @@
-# awesome-gitub
+# awesome-github
 
 > A exquisite list of awesome GitHub secrets.
 
@@ -17,7 +17,7 @@
 + [Github Git Stats](https://github.com/IonicaBizau/git-stats)
 + [Github Changelog Generator](https://github.com/skywinder/github-changelog-generator)
 
-## Website
+## Websites
 
 + [octodex.github.com](https://octodex.github.com/)
 + [octoboard.com](http://octoboard.com) ([Repository](https://github.com/KuiKui/Octoboard))
