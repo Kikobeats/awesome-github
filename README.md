@@ -10,12 +10,12 @@
 
 ## Tools
 
-+ [Github Friction tool](https://github.com/rafalchmiel/friction).
-+ [Github Repository Collaborators sorted by contributions ](https://github.com/oleander/git-fame-rb).
-+ [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme).
-+ [Github Improve Git CLI](https://hub.github.com).
-+ [Github Git Stats](https://github.com/IonicaBizau/git-stats).
-+ [Github Changelog Generator](https://github.com/skywinder/github-changelog-generator).
++ [Github Cheat Sheet, A list of cool features of Git and GitHub](https://github.com/tiimgreen/github-cheat-sheet#readme).
++ [git-stats, a GitHub-like contributions calendar, but locally, with all your git commits.](https://github.com/IonicaBizau/git-stats).
++ [Friction, a Github project linter](https://github.com/rafalchmiel/friction).
++ [Hub, makes git better with Github](https://hub.github.com).
++ [GitFame, repository collaborators sorted by contributions](https://github.com/oleander/git-fame-rb).
++ [Github Changelog Generator](https://github.com/skywinder/github-changelog-generator). 
 
 ## Websites
 
