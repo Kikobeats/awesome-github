@@ -35,7 +35,7 @@
 + [Github Tagger](https://chrome.google.com/webstore/detail/github-tagger/apegcdgbjbocfnleknnbalmhlpbjgmmf).
 + [Github Awesome Autocomplete](https://github.algolia.com/).
 + [Github Selfies](https://chrome.google.com/webstore/detail/github-selfies/ldnpkdnkgkogfnahcnldaedcoadjbkbl).
-+ [Github Octotree](https://github.com/buunguyen/octotree)
++ [Github Octotree](https://github.com/buunguyen/octotree).
 
 ## Freaky insane
 
