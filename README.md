@@ -39,5 +39,6 @@
 ## Freaky insane
 
 + [Github Contributions Generator](https://github.com/IonicaBizau/github-contributions).
-+ [Github Hall of Fame](https://github.com/mehulkar/github-hall-of-fame).
-+ [Github Top Users](https://github.com/paulmillr/top-github-users).
++ [Github Hall of Fame](http://www.mehulkar.com/github-hall-of-fame/) ([Repository](https://github.com/mehulkar/github-hall-of-fame)).
++ [Github Top Users](https://gist.github.com/paulmillr/2657075/) ([Repository](https://github.com/paulmillr/top-github-users)).
+
