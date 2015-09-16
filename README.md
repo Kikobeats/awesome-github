@@ -14,6 +14,7 @@
 + [git-stats, a GitHub-like contributions calendar, but locally, with all your git commits.](https://github.com/IonicaBizau/git-stats).
 + [Friction, a Github project linter](https://github.com/rafalchmiel/friction).
 + [Hub, makes git better with Github](https://hub.github.com).
++ [Ghizmo, a command line for GitHub](https://github.com/jlevy/ghizmo).
 + [GitFame, repository collaborators sorted by contributions](https://github.com/oleander/git-fame-rb).
 + [Github Changelog Generator](https://github.com/skywinder/github-changelog-generator). 
 
