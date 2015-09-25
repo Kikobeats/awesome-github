@@ -22,10 +22,10 @@
 
 + [octodex.github.com](https://octodex.github.com/).
 + [octoboard.com](http://octoboard.com) ([Repository](https://github.com/KuiKui/Octoboard)).
-+ [githubarchive.org](http://githubarchive.org) ([Repository](https://github.com/igrigorik/githubarchive..org))
++ [githubarchive.org](http://githubarchive.org) ([Repository](https://github.com/igrigorik/githubarchive.org))
 + [issuestats.com](http://issuestats.com) ([Repository](https://github.com/hstove/issue_stats)).
 + [githut.info](http://githut.info) ([Repository](https://github.com/littleark/githut/)).
-+ [popularconvention](http://sideeffect.kr/popularconvention) ([Repository](https://github.com/outsideris/.popularconvention))
++ [popularconvention](http://sideeffect.kr/popularconvention) ([Repository](https://github.com/outsideris/popularconvention))
 + [open source card](https://osrc.dfm.io) ([Repository](https://github.com/dfm/osrc)).
 + [github-awards.com](http://github-awards.com).
 + [git.io](http://git.io).
