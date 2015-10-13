@@ -44,3 +44,8 @@
 + [Github Hall of Fame](http://www.mehulkar.com/github-hall-of-fame/) ([Repository](https://github.com/mehulkar/github-hall-of-fame)).
 + [Github Top Users](https://gist.github.com/paulmillr/2657075/) ([Repository](https://github.com/paulmillr/top-github-users)).
 
+## Hardware
+
++ [Github Raspberry Pi](https://github.com/blackout314/awesome-raspberry-pi)
++ [Github Arduino](https://github.com/Lembed/Awesome-arduino)
+
