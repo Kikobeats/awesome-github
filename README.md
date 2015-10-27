@@ -4,43 +4,43 @@
 
 ## Apps
 
-+ [Astral, Organize Your GitHub Stars With Ease](http://astralapp.com).
-+ [gitify, GitHub Notifications on your menu bar](https://github.com/ekonstantinidis/gitify).
-+ [gitter, Provides free public chat rooms for open source repositories on GitHub](https://gitter.im/).
++ [Astral](http://astralapp.com) – Organize Your GitHub Stars With Ease.
++ [Gitify](https://github.com/ekonstantinidis/gitify) – GitHub Notifications on your menu bar.
++ [Gitter](https://gitter.im) – Provides free public chat rooms for open source repositories on GitHub.
 
 ## Tools
 
-+ [Github Cheat Sheet, A list of cool features of Git and GitHub](https://github.com/tiimgreen/github-cheat-sheet#readme).
-+ [git-stats, a GitHub-like contributions calendar, but locally, with all your git commits.](https://github.com/IonicaBizau/git-stats).
-+ [Friction, a Github project linter](https://github.com/rafalchmiel/friction).
-+ [Hub, makes git better with Github](https://hub.github.com).
-+ [Ghizmo, a command line for GitHub](https://github.com/jlevy/ghizmo).
-+ [GitFame, repository collaborators sorted by contributions](https://github.com/oleander/git-fame-rb).
-+ [Github Changelog Generator](https://github.com/skywinder/github-changelog-generator). 
++ [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme) – A list of cool features of Git and GitHub.
++ [Git-stats](https://github.com/IonicaBizau/git-stats) – Local git statistics including GitHub-like contributions calendars.
++ [Friction](https://github.com/rafalchmiel/friction) – A tool to get rid of common sources of contributor friction.
++ [Hub](https://hub.github.com) – Makes git better with Github.
++ [Ghizmo](https://github.com/jlevy/ghizmo) – The missing command line for GitHub.
++ [GitFame](https://github.com/oleander/git-fame-rb) – Generates awesome stats from git-blame.
++ [Github Changelog Generator](https://github.com/skywinder/github-changelog-generator) – Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 
 ## Websites
 
-+ [octodex.github.com](https://octodex.github.com/).
-+ [octoboard.com](http://octoboard.com) ([Repository](https://github.com/KuiKui/Octoboard)).
-+ [githubarchive.org](http://githubarchive.org) ([Repository](https://github.com/igrigorik/githubarchive.org))
-+ [issuestats.com](http://issuestats.com) ([Repository](https://github.com/hstove/issue_stats)).
-+ [githut.info](http://githut.info) ([Repository](https://github.com/littleark/githut/)).
-+ [popularconvention](http://sideeffect.kr/popularconvention) ([Repository](https://github.com/outsideris/popularconvention))
-+ [open source card](https://osrc.dfm.io) ([Repository](https://github.com/dfm/osrc)).
-+ [github-awards.com](http://github-awards.com).
-+ [git.io](http://git.io).
++ [octodex](https://octodex.github.com/) – Octocats. Octocats everywhere.
++ [octoboard](http://octoboard.com) [[repository](https://github.com/KuiKui/Octoboard)] – GitHub activity dashboard.
++ [githubarchive](http://githubarchive.org) [[repository](https://github.com/igrigorik/githubarchive.org)] – Record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
++ [issuestats](http://issuestats.com) [[repository](https://github.com/hstove/issue_stats)] – Analyze and compare how long it takes for Github issues to be closed.
++ [githut](http://githut.info) [[repository](https://github.com/littleark/githut/)] – Visualization of data from github archive. 
++ [popularconvention](http://sideeffect.kr/popularconvention) [[repository](https://github.com/outsideris/popularconvention)] – Analyzing code convention from Github commits.
++ [open source card](https://osrc.dfm.io) [[repository](https://github.com/dfm/osrc)] – The Open Source Report Card. 
++ [github-awards](http://github-awards.com) – Discover your ranking on GitHub.
++ [git.io](http://git.io) – URL shortener for Github.
 
 ## Browser Extensions
 
-+ [Github Linker (Extension for Chrome)](https://github.com/github-linker/chrome-extension/).
-+ [Github Tagger](https://chrome.google.com/webstore/detail/github-tagger/apegcdgbjbocfnleknnbalmhlpbjgmmf).
-+ [Github Awesome Autocomplete](https://github.algolia.com/).
-+ [Github Selfies](https://chrome.google.com/webstore/detail/github-selfies/ldnpkdnkgkogfnahcnldaedcoadjbkbl).
-+ [Github Octotree](https://github.com/buunguyen/octotree).
++ [Github Linker](https://github.com/github-linker/chrome-extension/) [[chrome](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp)] – Link dependencies in a package or bower file to their GitHub page. 
++ [Github Stars Tagger](https://chrome.google.com/webstore/detail/github-tagger/apegcdgbjbocfnleknnbalmhlpbjgmmf) [[chrome](https://chrome.google.com/webstore/detail/github-stars-tagger/aaihhjepepgajmehjdmfkofegfddcabc)] – Add tags to your starred repositories directly on GitHub.
++ [Github Awesome Autocomplete](https://github.algolia.com/) [[chrome](https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/github-awesome-autocomplete/)] – Add instant search capabilities to GitHub search box.
++ [Github Selfies](https://github.com/thieman/github-selfies) [[chrome](https://chrome.google.com/webstore/detail/github-selfies/ldnpkdnkgkogfnahcnldaedcoadjbkbl)] – Add selfies to your pull requests and comments on GitHub.
++ [Github Octotree](https://github.com/buunguyen/octotree) [[chrome](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/octotree/)] [[opera](https://addons.opera.com/en/extensions/details/octotree/)] – Display GitHub code in tree format.
 
 ## Freaky insane
 
-+ [Github Contributions Generator](https://github.com/IonicaBizau/github-contributions).
-+ [Github Hall of Fame](http://www.mehulkar.com/github-hall-of-fame/) ([Repository](https://github.com/mehulkar/github-hall-of-fame)).
-+ [Github Top Users](https://gist.github.com/paulmillr/2657075/) ([Repository](https://github.com/paulmillr/top-github-users)).
++ [Github Contributions Generator](https://github.com/IonicaBizau/github-contributions) – Generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
++ [Github Hall of Fame](http://www.mehulkar.com/github-hall-of-fame/) [[repository](https://github.com/mehulkar/github-hall-of-fame)] – Hall of Fame for spectacular things on Github.
++ [Github Top Users](https://gist.github.com/paulmillr/2657075/) [[repository](https://github.com/paulmillr/top-github-users)][[spanish version](https://github.com/JJ/top-github-users-data/blob/master/formatted/top-alt-Spain.md)] – GitHub top-1000 generation script.
 
