@@ -29,6 +29,7 @@
 + [open source card](https://osrc.dfm.io) [[repository](https://github.com/dfm/osrc)] – The Open Source Report Card. 
 + [github-awards](http://github-awards.com) – Discover your ranking on GitHub.
 + [git.io](http://git.io) – URL shortener for Github.
++ [GitMostWanted](http://gitmostwanted.com) - Advanced explorer of github.com.
 
 ## Browser Extensions
 
