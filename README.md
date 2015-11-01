@@ -17,6 +17,7 @@
 + [Ghizmo](https://github.com/jlevy/ghizmo) – The missing command line for GitHub.
 + [GitFame](https://github.com/oleander/git-fame-rb) – Generates awesome stats from git-blame.
 + [Github Changelog Generator](https://github.com/skywinder/github-changelog-generator) – Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
++ [Github Contributors Table](https://github.com/stoeffel/gh-contributors-table) – Create a nice table of your contributors.
 
 ## Websites
 
