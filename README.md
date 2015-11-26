@@ -34,6 +34,7 @@
 ## Browser Extensions
 
 + [Github Avatars](https://github.com/anasnakawa/chrome-github-avatars) [[chrome](https://chrome.google.com/webstore/detail/avatars-for-github/pgjmdbklnfklcjfbonjfkdhaonlfogbb)] - Display avatars in github news feed.
++ [Github Hovercard](https://github.com/Justineo/github-hovercard) [[chrome](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/github-hovercard/)] - Neat user/repo/issue hovercard for GitHub.
 + [Github Linker](https://github.com/github-linker/chrome-extension/) [[chrome](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp)] – Link dependencies in a package or bower file to their GitHub page. 
 + [Github Stars Tagger](https://chrome.google.com/webstore/detail/github-tagger/apegcdgbjbocfnleknnbalmhlpbjgmmf) [[chrome](https://chrome.google.com/webstore/detail/github-stars-tagger/aaihhjepepgajmehjdmfkofegfddcabc)] – Add tags to your starred repositories directly on GitHub.
 + [Github Awesome Autocomplete](https://github.algolia.com/) [[chrome](https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/github-awesome-autocomplete/)] – Add instant search capabilities to GitHub search box.
