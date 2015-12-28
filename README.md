@@ -1,4 +1,4 @@
-# Awesome Github [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Github [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](http://img.shields.io/travis/Kikobeats/awesome-github/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/awesome-github)
 
 > An exquisite list of awesome :octocat: secrets.
 
