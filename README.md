@@ -1,4 +1,4 @@
-# Awesome Github [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](http://img.shields.io/travis/Kikobeats/awesome-github/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/awesome-github)
+# Awesome Github [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/Kikobeats/awesome-github/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/awesome-github)
 
 > An exquisite list of awesome :octocat: secrets.
 
@@ -23,11 +23,11 @@
 
 + [octodex](https://octodex.github.com/) – Octocats. Octocats everywhere.
 + [octoboard](http://octoboard.com) [[repository](https://github.com/KuiKui/Octoboard)] – GitHub activity dashboard.
-+ [githubarchive](http://githubarchive.org) [[repository](https://github.com/igrigorik/githubarchive.org)] – Record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
++ [githubarchive](https://www.githubarchive.org/) [[repository](https://github.com/igrigorik/githubarchive.org)] – Record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
 + [issuestats](http://issuestats.com) [[repository](https://github.com/hstove/issue_stats)] – Analyze and compare how long it takes for Github issues to be closed.
-+ [githut](http://githut.info) [[repository](https://github.com/littleark/githut/)] – Visualization of data from github archive. 
++ [githut](http://githut.info) [[repository](https://github.com/littleark/githut/)] – Visualization of data from github archive.
 + [popularconvention](http://sideeffect.kr/popularconvention) [[repository](https://github.com/outsideris/popularconvention)] – Analyzing code convention from Github commits.
-+ [open source card](https://osrc.dfm.io) [[repository](https://github.com/dfm/osrc)] – The Open Source Report Card. 
++ [open source card](https://osrc.dfm.io) [[repository](https://github.com/dfm/osrc)] – The Open Source Report Card.
 + [github-awards](http://github-awards.com) – Discover your ranking on GitHub.
 + [git.io](http://git.io) – URL shortener for Github.
 
@@ -35,8 +35,8 @@
 
 + [Github Avatars](https://github.com/anasnakawa/chrome-github-avatars) [[chrome](https://chrome.google.com/webstore/detail/avatars-for-github/pgjmdbklnfklcjfbonjfkdhaonlfogbb)] - Display avatars in github news feed.
 + [Github Hovercard](https://github.com/Justineo/github-hovercard) [[chrome](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/github-hovercard/)] - Neat user/repo/issue hovercard for GitHub.
-+ [Github Linker](https://github.com/github-linker/chrome-extension/) [[chrome](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp)] – Link dependencies in a package or bower file to their GitHub page. 
-+ [Github Stars Tagger](https://chrome.google.com/webstore/detail/github-tagger/apegcdgbjbocfnleknnbalmhlpbjgmmf) [[chrome](https://chrome.google.com/webstore/detail/github-stars-tagger/aaihhjepepgajmehjdmfkofegfddcabc)] – Add tags to your starred repositories directly on GitHub.
++ [Github Linker](https://github.com/octo-linker/chrome-extension) [[chrome](https://chrome.google.com/webstore/detail/octo-linker/jlmafbaeoofdegohdhinkhilhclaklkp)] – Link dependencies in a package or bower file to their GitHub page.
++ [Github Stars Tagger](https://github.com/artisologic/github-stars-tagger) [[chrome](https://chrome.google.com/webstore/detail/github-stars-tagger/aaihhjepepgajmehjdmfkofegfddcabc)] – Add tags to your starred repositories directly on GitHub.
 + [Github Awesome Autocomplete](https://github.algolia.com/) [[chrome](https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/github-awesome-autocomplete/)] – Add instant search capabilities to GitHub search box.
 + [Github Selfies](https://github.com/thieman/github-selfies) [[chrome](https://chrome.google.com/webstore/detail/github-selfies/ldnpkdnkgkogfnahcnldaedcoadjbkbl)] – Add selfies to your pull requests and comments on GitHub.
 + [Github Octotree](https://github.com/buunguyen/octotree) [[chrome](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)] [[safari](https://github.com/buunguyen/octotree#install-on-safari)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/octotree/)] [[opera](https://addons.opera.com/en/extensions/details/octotree/)] – Display GitHub code in tree format.
@@ -46,6 +46,6 @@
 ## Freaky insane
 
 + [Github Contributions Generator](https://github.com/IonicaBizau/github-contributions) – Generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
-+ [Github Hall of Fame](http://www.mehulkar.com/github-hall-of-fame/) [[repository](https://github.com/mehulkar/github-hall-of-fame)] – Hall of Fame for spectacular things on Github.
++ [Github Hall of Fame](https://halls-of-fame.github.io/github/) [[repository](https://github.com/halls-of-fame/github)] – Hall of Fame for spectacular things on Github.
 + [Github Top Users](https://gist.github.com/paulmillr/2657075/) [[repository](https://github.com/paulmillr/top-github-users)][[spanish version](https://github.com/JJ/top-github-users-data/blob/master/formatted/top-alt-Spain.md)] – GitHub top-1000 generation script.
 
