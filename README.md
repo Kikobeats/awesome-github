@@ -41,7 +41,7 @@
 + [Github Selfies](https://github.com/thieman/github-selfies) [[chrome](https://chrome.google.com/webstore/detail/github-selfies/ldnpkdnkgkogfnahcnldaedcoadjbkbl)] – Add selfies to your pull requests and comments on GitHub.
 + [Github Octotree](https://github.com/buunguyen/octotree) [[chrome](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)] [[safari](https://github.com/buunguyen/octotree#install-on-safari)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/octotree/)] [[opera](https://addons.opera.com/en/extensions/details/octotree/)] – Display GitHub code in tree format.
 + [Github Isometric Contributions](https://github.com/jasonlong/isometric-contributions) [[chrome](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien?hl=en&gl=US)] [[safari](https://github.com/jasonlong/isometric-contributions/blob/master/safari/isometric-contributions.safariextz?raw=true)] – Render an isometric pixel art version of your Github contribution graph.
-
++ [Github Categoric](https://github.com/ozlerhakan/categoric) [[chrome](https://chrome.google.com/webstore/detail/github-categoric/gbfpmfhnfmobaichcfnhdobencecomhg)] – Categorize your mixed GitHub notifications.
 
 ## Freaky insane
 
