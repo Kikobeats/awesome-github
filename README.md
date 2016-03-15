@@ -45,6 +45,8 @@
 + [Github Isometric Contributions](https://github.com/jasonlong/isometric-contributions) [[chrome](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien?hl=en&gl=US)] [[safari](https://github.com/jasonlong/isometric-contributions/blob/master/safari/isometric-contributions.safariextz?raw=true)] – Render an isometric pixel art version of your Github contribution graph.
 + [Github Categoric](https://github.com/ozlerhakan/categoric) [[chrome](https://chrome.google.com/webstore/detail/github-categoric/gbfpmfhnfmobaichcfnhdobencecomhg)] – Categorize your mixed GitHub notifications.
 
+You can see more on [GitHub Browser Extensions](https://github.com/showcases/github-browser-extensions).
+
 ## Freaky insane
 
 + [Github Contributions Generator](https://github.com/IonicaBizau/github-contributions) – Generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
