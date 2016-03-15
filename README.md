@@ -4,6 +4,7 @@
 
 ## Apps
 
++ [DevSpace](https://devspace.io/) – Stay up to date with what's happening now on GitHub.
 + [Astral](http://astralapp.com) – Organize Your GitHub Stars With Ease.
 + [Gitify](https://github.com/ekonstantinidis/gitify) – GitHub Notifications on your menu bar.
 + [Gitter](https://gitter.im) – Provides free public chat rooms for open source repositories on GitHub.
