@@ -19,7 +19,7 @@
 + [GitHub Changelog Generator](https://GitHub.com/skywinder/GitHub-changelog-generator) – Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 + [GitHub Cheat Sheet](https://GitHub.com/tiimgreen/GitHub-cheat-sheet#readme) – A list of cool features of Git and GitHub.
 + [GitHub Contributors Table](https://GitHub.com/stoeffel/gh-contributors-table) – Create a nice table of your contributors.
-+ [GitHub Project Boilerplate](https://GitHub.com/cez-aug/GitHub-project-boilerplate) – Collection of template files for authoring a GitHub project.
++ [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) – Guidelines for creating template files for a GitHub project.
 + [Hub](https://hub.GitHub.com) – Makes git better with GitHub.
 
 ## Websites
