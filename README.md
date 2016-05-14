@@ -33,6 +33,7 @@
 + [octodex](https://octodex.GitHub.com/) – Octocats. Octocats everywhere.
 + [open source card](https://osrc.dfm.io) [[repository](https://GitHub.com/dfm/osrc)] – The Open Source Report Card.
 + [popularconvention](http://sideeffect.kr/popularconvention) [[repository](https://GitHub.com/outsideris/popularconvention)] – Analyzing code convention from GitHub commits.
++ [GitHub README Analyzer,  algorithmically improve your GitHub README](http://demos.algorithmia.com/github-readme-analyzer/).
 
 ## Browser Extensions
 
