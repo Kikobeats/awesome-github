@@ -11,6 +11,7 @@
 
 ## Tools
 
++ [gitsome](https://github.com/donnemartin/gitsome/) - A supercharged Git/GitHub command line interface (CLI).
 + [Friction](https://GitHub.com/rafalchmiel/friction) – A tool to get rid of common sources of contributor friction.
 + [Ghizmo](https://GitHub.com/jlevy/ghizmo) – The missing command line for GitHub.
 + [Git-stats](https://GitHub.com/IonicaBizau/git-stats) – Local git statistics including GitHub-like contributions calendars.
