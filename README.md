@@ -55,6 +55,6 @@ You can see more on [GitHub Browser Extensions](https://GitHub.com/showcases/Git
 ## Freaky insane
 
 + [GitHub Contributions Generator](https://GitHub.com/IonicaBizau/GitHub-contributions) – Generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
-+ [GitHub Halls of Fame](https://halls-of-fame.GitHub.io/github/) [[repository](https://GitHub.com/halls-of-fame/GitHub)] – Hall of Fame for spectacular things on GitHub.
++ [GitHub Hall of Fame](http://www.mehulkar.com/github-hall-of-fame/) [[repository](https://GitHub.com/halls-of-fame/GitHub)] – Hall of Fame for spectacular things on GitHub.
 + [GitHub Top Users](https://gist.GitHub.com/paulmillr/2657075/) [[repository](https://GitHub.com/paulmillr/top-GitHub-users)][[spanish version](https://GitHub.com/JJ/top-GitHub-users-data/blob/master/formatted/top-alt-Spain.md)] – GitHub top-1000 generation script.
 
