@@ -36,6 +36,7 @@
 + [open source card](https://osrc.dfm.io) [[repository](https://GitHub.com/dfm/osrc)] – The Open Source Report Card.
 + [popularconvention](http://sideeffect.kr/popularconvention) [[repository](https://GitHub.com/outsideris/popularconvention)] – Analyzing code convention from GitHub commits.
 + [GitHub README Analyzer](http://demos.algorithmia.com/github-readme-analyzer/) – Algorithmically improve your GitHub README.
++ [gitential.com](https://gitential.com/) – Analytics for Git. Measure coding hours, productivity, churn, efficiency and visualize on project, team, repo, developer level.
 
 ## Browser Extensions
 
