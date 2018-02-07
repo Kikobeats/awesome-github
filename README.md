@@ -50,7 +50,7 @@
 + [GitHub Selfies](https://GitHub.com/thieman/GitHub-selfies) [[chrome](https://chrome.google.com/webstore/detail/GitHub-selfies/ldnpkdnkgkogfnahcnldaedcoadjbkbl)] – Add selfies to your pull requests and comments on GitHub.
 + [GitHub Stars Tagger](https://GitHub.com/artisologic/GitHub-stars-tagger) [[chrome](https://chrome.google.com/webstore/detail/GitHub-stars-tagger/aaihhjepepgajmehjdmfkofegfddcabc)] – Add tags to your starred repositories directly on GitHub.
 + [Github NPM Hub](https://github.com/zeke/npm-hub) [[chrome](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj)] - Explore npm dependencies on GitHub repos 
-+ [Github vscode-icons](https://github.com/dderevjanik/github-vscode-icons) [[chrome]](https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd) show vscode-icons in the repository browser.
++ [Github vscode-icons](https://github.com/dderevjanik/github-vscode-icons) [[chrome](https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd)] show vscode-icons in the repository browser.
 
 You can see more on [GitHub Browser Extensions](https://GitHub.com/showcases/GitHub-browser-extensions).
 
