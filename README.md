@@ -23,7 +23,7 @@
 + [GitHub Contributors Table](https://GitHub.com/stoeffel/gh-contributors-table) – Create a nice table of your contributors.
 + [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) – Guidelines for creating template files for a GitHub project.
 + [Hub](https://hub.GitHub.com) – Makes git better with GitHub.
-+ [codetrace.io] – Your skills based on your GitHub profile.
++ [CodeTrace](https://codetrace.com/) – Your skills based on your GitHub profile.
 
 ## Websites
 
