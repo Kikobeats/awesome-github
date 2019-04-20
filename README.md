@@ -30,7 +30,7 @@
 + [git.io](https://git.io/) – URL shortener for GitHub.
 + [GitHub-awards](http://git-awards.com/) – Discover your ranking on GitHub.
 + [GitHubarchive](https://www.gharchive.org/) [[repository](https://GitHub.com/igrigorik/GitHubarchive.org)] – Record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
-+ [githut](https://githut.info/) [[repository](https://GitHub.com/littleark/githut/)] – Visualization of data from GitHub archive.
++ [GitHut](https://githut.info/) [[repository](https://GitHub.com/littleark/githut/)] – Visualization of data from GitHub archive.
 + [issuestats](http://issuestats.com) [[repository](https://GitHub.com/hstove/issue_stats)] – Analyze and compare how long it takes for GitHub issues to be closed.
 + [octoboard](https://www.octoboard.com/) [[repository](https://GitHub.com/KuiKui/Octoboard)] – GitHub activity dashboard.
 + [octodex](https://octodex.GitHub.com/) – Octocats. Octocats everywhere.
@@ -41,6 +41,7 @@
 
 ## Browser Extensions
 
++ [Refined GitHub](https://github.com/sindresorhus/refined-github) [[chrome](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/)] – Browser extension that simplifies the GitHub interface and adds useful features.
 + [GitHub Avatars](https://GitHub.com/anasnakawa/chrome-GitHub-avatars) [[chrome](https://chrome.google.com/webstore/detail/avatars-for-github/pgjmdbklnfklcjfbonjfkdhaonlfogbb)] - Display avatars in GitHub news feed.
 + [GitHub Awesome Autocomplete](https://GitHub.algolia.com/) [[chrome](https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/github-awesome-autocomplete/)] – Add instant search capabilities to GitHub search box.
 + [GitHub Categoric](https://GitHub.com/ozlerhakan/categoric) [[chrome](https://chrome.google.com/webstore/detail/github-categoric/gbfpmfhnfmobaichcfnhdobencecomhg)] – Categorize your mixed GitHub notifications.
