@@ -4,4 +4,4 @@ node_js:
   - "node"
 
 script:
-  - npx urlint https://nicedoc.io/kikobeats/awesome-github
+  - npx urlint https://nicedoc.io/kikobeats/awesome-github?force=true
