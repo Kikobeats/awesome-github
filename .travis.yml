@@ -1,7 +1,7 @@
-language: ruby
-rvm:
-  - 2.2
-before_script:
-  - gem install awesome_bot
+language: node_js
+
+node_js:
+  - "node"
+
 script:
-  - awesome_bot README.md --allow-redirect
+  - npx urlint https://nicedoc.io/kikobeats/awesome-github
