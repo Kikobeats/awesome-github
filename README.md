@@ -4,7 +4,7 @@
 
 ## Apps
 
-+ [Astral](http://astralapp.com) – Organize Your GitHub Stars With Ease.
++ [Astral](https://astralapp.com/) – Organize Your GitHub Stars With Ease.
 + [DevHub](https://devhubapp.com/) – TweetDeck for GitHub.
 + [Gitify](https://GitHub.com/ekonstantinidis/gitify) – GitHub Notifications on your menu bar.
 + [Gitter](https://gitter.im) – Provides free public chat rooms for open source repositories on GitHub.
@@ -27,29 +27,29 @@
 
 ## Websites
 
-+ [git.io](http://git.io) – URL shortener for GitHub.
-+ [GitHub-awards](http://GitHub-awards.com) – Discover your ranking on GitHub.
-+ [GitHubarchive](https://www.GitHubarchive.org/) [[repository](https://GitHub.com/igrigorik/GitHubarchive.org)] – Record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
-+ [githut](http://githut.info) [[repository](https://GitHub.com/littleark/githut/)] – Visualization of data from GitHub archive.
++ [git.io](https://git.io/) – URL shortener for GitHub.
++ [GitHub-awards](http://git-awards.com/) – Discover your ranking on GitHub.
++ [GitHubarchive](https://www.gharchive.org/) [[repository](https://GitHub.com/igrigorik/GitHubarchive.org)] – Record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
++ [githut](https://githut.info/) [[repository](https://GitHub.com/littleark/githut/)] – Visualization of data from GitHub archive.
 + [issuestats](http://issuestats.com) [[repository](https://GitHub.com/hstove/issue_stats)] – Analyze and compare how long it takes for GitHub issues to be closed.
-+ [octoboard](http://octoboard.com) [[repository](https://GitHub.com/KuiKui/Octoboard)] – GitHub activity dashboard.
++ [octoboard](https://www.octoboard.com/) [[repository](https://GitHub.com/KuiKui/Octoboard)] – GitHub activity dashboard.
 + [octodex](https://octodex.GitHub.com/) – Octocats. Octocats everywhere.
 + [open source card](https://osrc.dfm.io) [[repository](https://GitHub.com/dfm/osrc)] – The Open Source Report Card.
 + [popularconvention](http://sideeffect.kr/popularconvention) [[repository](https://GitHub.com/outsideris/popularconvention)] – Analyzing code convention from GitHub commits.
-+ [GitHub README Analyzer](http://demos.algorithmia.com/github-readme-analyzer/) – Algorithmically improve your GitHub README.
++ [GitHub README Analyzer](https://demos.algorithmia.com/github-readme-analyzer/) – Algorithmically improve your GitHub README.
 + [gitential.com](https://gitential.com/) – Analytics for Git. Measure coding hours, productivity, churn, efficiency and visualize on project, team, repo, developer level.
 
 ## Browser Extensions
 
-+ [GitHub Avatars](https://GitHub.com/anasnakawa/chrome-GitHub-avatars) [[chrome](https://chrome.google.com/webstore/detail/avatars-for-GitHub/pgjmdbklnfklcjfbonjfkdhaonlfogbb)] - Display avatars in GitHub news feed.
-+ [GitHub Awesome Autocomplete](https://GitHub.algolia.com/) [[chrome](https://chrome.google.com/webstore/detail/GitHub-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/GitHub-awesome-autocomplete/)] – Add instant search capabilities to GitHub search box.
-+ [GitHub Categoric](https://GitHub.com/ozlerhakan/categoric) [[chrome](https://chrome.google.com/webstore/detail/GitHub-categoric/gbfpmfhnfmobaichcfnhdobencecomhg)] – Categorize your mixed GitHub notifications.
-+ [GitHub Hovercard](https://GitHub.com/Justineo/GitHub-hovercard) [[chrome](https://chrome.google.com/webstore/detail/GitHub-hovercard/mmoahbbnojgkclgceahhakhnccimnplk)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/GitHub-hovercard/)] - Neat user/repo/issue hovercard for GitHub.
-+ [GitHub Isometric Contributions](https://GitHub.com/jasonlong/isometric-contributions) [[chrome](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien?hl=en&gl=US)] [[safari](https://GitHub.com/jasonlong/isometric-contributions/blob/master/safari/isometric-contributions.safariextz?raw=true)] – Render an isometric pixel art version of your GitHub contribution graph.
-+ [GitHub Linker](https://GitHub.com/octo-linker/chrome-extension) [[chrome](https://chrome.google.com/webstore/detail/octo-linker/jlmafbaeoofdegohdhinkhilhclaklkp)] – Link dependencies in a package or bower file to their GitHub page.
++ [GitHub Avatars](https://GitHub.com/anasnakawa/chrome-GitHub-avatars) [[chrome](https://chrome.google.com/webstore/detail/avatars-for-github/pgjmdbklnfklcjfbonjfkdhaonlfogbb)] - Display avatars in GitHub news feed.
++ [GitHub Awesome Autocomplete](https://GitHub.algolia.com/) [[chrome](https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/github-awesome-autocomplete/)] – Add instant search capabilities to GitHub search box.
++ [GitHub Categoric](https://GitHub.com/ozlerhakan/categoric) [[chrome](https://chrome.google.com/webstore/detail/github-categoric/gbfpmfhnfmobaichcfnhdobencecomhg)] – Categorize your mixed GitHub notifications.
++ [GitHub Hovercard](https://GitHub.com/Justineo/GitHub-hovercard) [[chrome](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/github-hovercard/)] - Neat user/repo/issue hovercard for GitHub.
++ [GitHub Isometric Contributions](https://GitHub.com/jasonlong/isometric-contributions) [[chrome](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien?hl=en&gl=US)] – Render an isometric pixel art version of your GitHub contribution graph.
++ [GitHub Linker](https://GitHub.com/octo-linker/chrome-extension) [[chrome](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp)] – Link dependencies in a package or bower file to their GitHub page.
 + [GitHub Octotree](https://GitHub.com/buunguyen/octotree) [[chrome](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)] [[safari](https://GitHub.com/buunguyen/octotree#install-on-safari)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/octotree/)] [[opera](https://addons.opera.com/en/extensions/details/octotree/)] – Display GitHub code in tree format.
-+ [GitHub Selfies](https://GitHub.com/thieman/GitHub-selfies) [[chrome](https://chrome.google.com/webstore/detail/GitHub-selfies/ldnpkdnkgkogfnahcnldaedcoadjbkbl)] – Add selfies to your pull requests and comments on GitHub.
-+ [GitHub Stars Tagger](https://GitHub.com/artisologic/GitHub-stars-tagger) [[chrome](https://chrome.google.com/webstore/detail/GitHub-stars-tagger/aaihhjepepgajmehjdmfkofegfddcabc)] – Add tags to your starred repositories directly on GitHub.
++ [GitHub Selfies](https://GitHub.com/thieman/GitHub-selfies) [[chrome](https://chrome.google.com/webstore/detail/github-selfies/ldnpkdnkgkogfnahcnldaedcoadjbkbl)] – Add selfies to your pull requests and comments on GitHub.
++ [GitHub Stars Tagger](https://GitHub.com/artisologic/GitHub-stars-tagger) [[chrome](https://chrome.google.com/webstore/detail/github-stars-tagger/aaihhjepepgajmehjdmfkofegfddcabc)] – Add tags to your starred repositories directly on GitHub.
 + [Github NPM Hub](https://github.com/zeke/npm-hub) [[chrome](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj)] - Explore npm dependencies on GitHub repos 
 + [Github vscode-icons](https://github.com/dderevjanik/github-vscode-icons) [[chrome](https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd)] show vscode-icons in the repository browser.
 
@@ -58,7 +58,7 @@ You can see more on [GitHub Browser Extensions](https://GitHub.com/showcases/Git
 ## Freaky insane
 
 + [GitHub Contributions Generator](https://GitHub.com/IonicaBizau/GitHub-contributions) – Generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
-+ [GitHub Hall of Fame](http://www.mehulkar.com/github-hall-of-fame/) [[repository](https://GitHub.com/halls-of-fame/GitHub)] – Hall of Fame for spectacular things on GitHub.
++ [GitHub Hall of Fame](https://mehulkar.com/github-hall-of-fame/) [[repository](https://GitHub.com/halls-of-fame/GitHub)] – Hall of Fame for spectacular things on GitHub.
 + [GitHub Top Users](https://gist.GitHub.com/paulmillr/2657075/) [[repository](https://GitHub.com/paulmillr/top-GitHub-users)][[spanish version](https://GitHub.com/JJ/top-GitHub-users-data/blob/master/formatted/top-alt-Spain.md)] – GitHub top-1000 generation script.
 + [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) - A repository allowing to track GitHub trends 
 + [commits.top](https://commits.top/) – A list of the most active GitHub users
