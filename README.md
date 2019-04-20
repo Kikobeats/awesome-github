@@ -7,16 +7,14 @@
 + [Astral](https://astralapp.com/) – Organize Your GitHub Stars With Ease.
 + [DevHub](https://devhubapp.com/) – TweetDeck for GitHub.
 + [Gitify](https://GitHub.com/ekonstantinidis/gitify) – GitHub Notifications on your menu bar.
-+ [Gitter](https://gitter.im) – Provides free public chat rooms for open source repositories on GitHub.
 + [OctoBox](https://octoboxjs.io/) – Take back control of your GitHub notifications.
++ [GitBar](https://GitHub.com/Shikkic/gitbar#gitbar) – Open Soure GitHub contribution stats in your MacOSX Menu.
 
 ## Tools
 
-+ [gitsome](https://github.com/donnemartin/gitsome/) - A supercharged Git/GitHub command line interface (CLI).
 + [Friction](https://GitHub.com/rafalchmiel/friction) – A tool to get rid of common sources of contributor friction.
 + [Ghizmo](https://GitHub.com/jlevy/ghizmo) – The missing command line for GitHub.
 + [Git-stats](https://GitHub.com/IonicaBizau/git-stats) – Local git statistics including GitHub-like contributions calendars.
-+ [GitBar](https://GitHub.com/Shikkic/gitbar#gitbar) – Open Soure GitHub contribution stats in your MacOSX Menu.
 + [GitFame](https://GitHub.com/oleander/git-fame-rb) – Generates awesome stats from git-blame.
 + [GitHub Changelog Generator](https://GitHub.com/skywinder/GitHub-changelog-generator) – Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 + [GitHub Cheat Sheet](https://GitHub.com/tiimgreen/GitHub-cheat-sheet#readme) – A list of cool features of Git and GitHub.
@@ -34,15 +32,14 @@
 + [issuestats](http://issuestats.com) [[repository](https://GitHub.com/hstove/issue_stats)] – Analyze and compare how long it takes for GitHub issues to be closed.
 + [octoboard](https://www.octoboard.com/) [[repository](https://GitHub.com/KuiKui/Octoboard)] – GitHub activity dashboard.
 + [octodex](https://octodex.GitHub.com/) – Octocats. Octocats everywhere.
-+ [open source card](https://osrc.dfm.io) [[repository](https://GitHub.com/dfm/osrc)] – The Open Source Report Card.
 + [popularconvention](http://sideeffect.kr/popularconvention) [[repository](https://GitHub.com/outsideris/popularconvention)] – Analyzing code convention from GitHub commits.
 + [GitHub README Analyzer](https://demos.algorithmia.com/github-readme-analyzer/) – Algorithmically improve your GitHub README.
-+ [gitential.com](https://gitential.com/) – Analytics for Git. Measure coding hours, productivity, churn, efficiency and visualize on project, team, repo, developer level.
 
 ## Browser Extensions
 
++ [GitHunt](https://kamranahmed.info/githunt) [[repository](https://github.com/kamranahmedse/githunt)] – Hunt the most starred projects on any date on GitHub.
++ [Notifications Preview for GitHub](https://github.com/tanmayrajani/notifications-preview-github) [[repository](https://github.com/kamranahmedse/githunt)] [[chrome](https://chrome.google.com/webstore/detail/notifications-preview-for/kgilejfahkjidpaclkepbdoeioeohfmj)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/notifications-preview-github/)] – Preview your notifications without leaving the page.
 + [Refined GitHub](https://github.com/sindresorhus/refined-github) [[chrome](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/)] – Browser extension that simplifies the GitHub interface and adds useful features.
-+ [GitHub Avatars](https://GitHub.com/anasnakawa/chrome-GitHub-avatars) [[chrome](https://chrome.google.com/webstore/detail/avatars-for-github/pgjmdbklnfklcjfbonjfkdhaonlfogbb)] - Display avatars in GitHub news feed.
 + [GitHub Awesome Autocomplete](https://GitHub.algolia.com/) [[chrome](https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/github-awesome-autocomplete/)] – Add instant search capabilities to GitHub search box.
 + [GitHub Categoric](https://GitHub.com/ozlerhakan/categoric) [[chrome](https://chrome.google.com/webstore/detail/github-categoric/gbfpmfhnfmobaichcfnhdobencecomhg)] – Categorize your mixed GitHub notifications.
 + [GitHub Hovercard](https://GitHub.com/Justineo/GitHub-hovercard) [[chrome](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/github-hovercard/)] - Neat user/repo/issue hovercard for GitHub.
@@ -58,7 +55,6 @@ You can see more on [GitHub Browser Extensions](https://GitHub.com/showcases/Git
 
 ## Freaky insane
 
-+ [GitHub Contributions Generator](https://GitHub.com/IonicaBizau/GitHub-contributions) – Generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
 + [GitHub Hall of Fame](https://mehulkar.com/github-hall-of-fame/) [[repository](https://GitHub.com/halls-of-fame/GitHub)] – Hall of Fame for spectacular things on GitHub.
 + [GitHub Top Users](https://gist.GitHub.com/paulmillr/2657075/) [[repository](https://GitHub.com/paulmillr/top-GitHub-users)][[spanish version](https://GitHub.com/JJ/top-GitHub-users-data/blob/master/formatted/top-alt-Spain.md)] – GitHub top-1000 generation script.
 + [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) - A repository allowing to track GitHub trends 
