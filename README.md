@@ -34,6 +34,7 @@
 + [octodex](https://octodex.GitHub.com/) – Octocats. Octocats everywhere.
 + [popularconvention](http://sideeffect.kr/popularconvention) [[repository](https://GitHub.com/outsideris/popularconvention)] – Analyzing code convention from GitHub commits.
 + [GitHub README Analyzer](https://demos.algorithmia.com/github-readme-analyzer/) – Algorithmically improve your GitHub README.
++ [CoderStats](https://coderstats.net/) – It displays statistics for coders with public Git repositories on GitHub.
 
 ## Browser Extensions
 
