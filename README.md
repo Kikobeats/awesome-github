@@ -21,7 +21,6 @@
 + [GitHub Contributors Table](https://GitHub.com/stoeffel/gh-contributors-table) – Create a nice table of your contributors.
 + [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) – Guidelines for creating template files for a GitHub project.
 + [Hub](https://hub.GitHub.com) – Makes git better with GitHub.
-+ [CodeTrace](https://codetrace.com/) – Your skills based on your GitHub profile.
 
 ## Websites
 
@@ -35,6 +34,7 @@
 + [popularconvention](http://sideeffect.kr/popularconvention) [[repository](https://GitHub.com/outsideris/popularconvention)] – Analyzing code convention from GitHub commits.
 + [GitHub README Analyzer](https://demos.algorithmia.com/github-readme-analyzer/) – Algorithmically improve your GitHub README.
 + [CoderStats](https://coderstats.net/) – It displays statistics for coders with public Git repositories on GitHub.
++ [CodeTrace](https://codetrace.com/) – Your skills based on your GitHub profile.
 
 ## Browser Extensions
 
