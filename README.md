@@ -12,6 +12,7 @@
 
 ## Tools
 
++ [Export Pull Requests](https://github.com/sshaw/export-pull-requests) - Export pull requests and/or issues to a CSV file.
 + [Friction](https://GitHub.com/rafalchmiel/friction) – A tool to get rid of common sources of contributor friction.
 + [Ghizmo](https://GitHub.com/jlevy/ghizmo) – The missing command line for GitHub.
 + [Git-stats](https://GitHub.com/IonicaBizau/git-stats) – Local git statistics including GitHub-like contributions calendars.
@@ -48,7 +49,7 @@
 + [GitHub Octotree](https://GitHub.com/buunguyen/octotree) [[chrome](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)] [[safari](https://GitHub.com/buunguyen/octotree#install-on-safari)] [[firefox](https://addons.mozilla.org/en-US/firefox/addon/octotree/)] [[opera](https://addons.opera.com/en/extensions/details/octotree/)] – Display GitHub code in tree format.
 + [GitHub Selfies](https://GitHub.com/thieman/GitHub-selfies) [[chrome](https://chrome.google.com/webstore/detail/github-selfies/ldnpkdnkgkogfnahcnldaedcoadjbkbl)] – Add selfies to your pull requests and comments on GitHub.
 + [GitHub Stars Tagger](https://GitHub.com/artisologic/GitHub-stars-tagger) [[chrome](https://chrome.google.com/webstore/detail/github-stars-tagger/aaihhjepepgajmehjdmfkofegfddcabc)] – Add tags to your starred repositories directly on GitHub.
-+ [Github NPM Hub](https://github.com/zeke/npm-hub) [[chrome](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj)] - Explore npm dependencies on GitHub repos 
++ [Github NPM Hub](https://github.com/zeke/npm-hub) [[chrome](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj)] - Explore npm dependencies on GitHub repos
 + [Github vscode-icons](https://github.com/dderevjanik/github-vscode-icons) [[chrome](https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd)] show vscode-icons in the repository browser.
 
 You can see more on [GitHub Browser Extensions](https://GitHub.com/showcases/GitHub-browser-extensions).
