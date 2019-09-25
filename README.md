@@ -34,6 +34,7 @@
 + [GitHub README Analyzer](https://demos.algorithmia.com/github-readme-analyzer/) – Algorithmically improve your GitHub README.
 + [CoderStats](https://coderstats.net/) – It displays statistics for coders with public Git repositories on GitHub.
 + [CodeTrace](https://codetrace.com/) – Your skills based on your GitHub profile.
++ [ghuser.io](https://ghuser.io) – Better GitHub profiles.
 
 ## Browser Extensions
 
