@@ -36,6 +36,7 @@
 + [CoderStats](https://coderstats.net/) – It displays statistics for coders with public Git repositories on GitHub.
 + [CodeTrace](https://codetrace.com/) – Your skills based on your GitHub profile.
 + [ghuser.io](https://ghuser.io) – Better GitHub profiles.
++ [Haystack](https://usehaystack.io) - Pull Request Alerts and Metrics
 
 ## Browser Extensions
 
