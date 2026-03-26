@@ -9,6 +9,7 @@
 + [Gitify](https://GitHub.com/ekonstantinidis/gitify) – GitHub Notifications on your menu bar.
 + [OctoBox](https://octoboxjs.io/) – Take back control of your GitHub notifications.
 + [GitBar](https://GitHub.com/Shikkic/gitbar#gitbar) – Open Soure GitHub contribution stats in your MacOSX Menu.
++ [Related Repos](https://relatedrepos.com/) - Discover related open source projects. Updated daily.
 
 ## Tools
 
