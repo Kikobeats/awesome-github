@@ -23,6 +23,8 @@
 + [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) – Guidelines for creating template files for a GitHub project.
 + [Hub](https://hub.GitHub.com) – Makes git better with GitHub.
 
+- [Commitment Issues](https://github.com/dotsystemsdevs/commitmentissues) - Free open-source web app that issues a satirical "death certificate" for abandoned GitHub repos — algorithmic cause of death, last commit as last words, severity score, profile graveyard scan.
+
 ## Websites
 
 + [git.io](https://git.io/) – URL shortener for GitHub.
