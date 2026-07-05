@@ -17,6 +17,7 @@
 + [Ghizmo](https://GitHub.com/jlevy/ghizmo) – The missing command line for GitHub.
 + [Git-stats](https://GitHub.com/IonicaBizau/git-stats) – Local git statistics including GitHub-like contributions calendars.
 + [GitFame](https://GitHub.com/oleander/git-fame-rb) – Generates awesome stats from git-blame.
++ [gitfetch](https://GitHub.com/Matars/gitfetch) – Neofetch-style stats for git profiles, supporting GitHub, GitLab, Gitea, and Sourcehut.
 + [GitHub Release](https://github.com/zeit/release) – Generate changelogs with a single command.
 + [GitHub Cheat Sheet](https://GitHub.com/tiimgreen/GitHub-cheat-sheet#readme) – A list of cool features of Git and GitHub.
 + [GitHub Contributors Table](https://GitHub.com/stoeffel/gh-contributors-table) – Create a nice table of your contributors.
